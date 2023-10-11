@@ -26,7 +26,7 @@ Ab initio methods are based on fundamental physical principles and solve the Sch
 1. **Highly accurate protein structure prediction with AlphaFold**  
    John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis \
    ***Nature, July 2021.*** \
-   [[paper]](https://arxiv.org/pdf/2308.01399.pdf) [[code]](https://github.com/google-deepmind/alphafold)
+   [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[code]](https://github.com/google-deepmind/alphafold)
 
 
 ## 3. Contributing<a name="contributing"></a>
