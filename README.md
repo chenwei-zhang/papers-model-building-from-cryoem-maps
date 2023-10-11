@@ -1,4 +1,4 @@
-# Paper List for Atomic Model Building with CryoEM Density Maps using Machine and Deep Learning approaches 
+# Paper List for Protein Atomic Model Building 
 
 ## Table of Contents
 
