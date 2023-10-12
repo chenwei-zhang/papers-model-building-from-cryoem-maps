@@ -4,8 +4,8 @@
 
 1. [Introduction](#introduction)
 2. [Methods](#methods)
-    - [1. Atomic Model Building Methods](#atomic-model)
-    - [2. Protein Structure Prediction Methods](#predict-protein)
+    - [2.1. Atomic Model Building Methods](#atomic-model)
+    - [2.2. Protein Structure Prediction Methods](#predict-protein)
 3. [Contributing](#contributing)
 4. [License](#license)
 
@@ -16,18 +16,35 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 
 ## 2. Methods<a name="methods"></a>
 
-### 2.1. Atomic Model Building Methods<a name="atomic-model"></a>
+> ### 2.1. Atomic Model Building Methods<a name="atomic-model"></a>
 
-Ab initio methods are based on fundamental physical principles and solve the Schrödinger equation to predict molecular structure. They are computationally intensive and used for small molecules.
+**Model building of protein complexes from intermediate-resolution cryo-EM maps with deep learning-guided automatic assembly** <br>
+<sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao & Sheng-You Huang</sub> <br>
+*Nature Communications, July 2022.* <br>
+[[paper]](https://www.nature.com/articles/s41467-022-31748-9) [[code]](http://huanglab.phys.hust.edu.cn/EMBuild/)
 
 
-### 2.2. Protein Structure Prediction Methods<a name="predict-protein"></a>
 
-1. **Highly accurate protein structure prediction with AlphaFold**  
-   John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis \
-   ***Nature, July 2021.*** \
-   [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[code]](https://github.com/google-deepmind/alphafold)
 
+<br>
+<br>
+
+> ### 2.2. Protein Structure Prediction Methods<a name="predict-protein"></a>
+
+**Highly accurate protein structure prediction with AlphaFold** <br>
+<sub>John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis</sub> <br>
+*Nature, July 2021.* <br>
+[[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[code]](https://github.com/google-deepmind/alphafold)
+
+
+
+
+
+
+
+
+<br>
+<br>
 
 ## 3. Contributing<a name="contributing"></a>
 
