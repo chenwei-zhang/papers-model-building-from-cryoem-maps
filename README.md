@@ -77,13 +77,13 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 **Deep Learning to Predict Protein Backbone Structure from High-Resolution Cryo-EM Density Maps**<br>
 <sub>Dong Si, Spencer A. Moritz, Jonas Pfab, Jie Hou, Renzhi Cao, Liguo Wang, Tianqi Wu, Jianlin Cheng</sub>
 <br>
-*Scientific reports , March 2020.* <br>
+*Scientific reports, March 2020.* <br>
 [[paper]](https://www.nature.com/articles/s41598-020-60598-y) [[code]](https://github.com/DrDongSi/Ca-Backbone-Prediction) ${\color{red}\texttt{[Cascaded-CNN]}}$
 
 **Deep convolutional neural networks for detecting secondary structures in protein density maps from cryo-electron microscopy**<br>
 <sub>Rongjian Li, Dong Si, Tao Zeng, Shuiwang Ji, Jing He</sub>
 <br>
-*IEEE , December 2016.* <br>
+*IEEE, December 2016.* <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/7822490/authors#authors)
 
 **AAnchor: CNN guided detection of anchor amino acids in high resolution cryo-EM density maps**<br>
@@ -107,8 +107,28 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 **Progressive assembly of multi-domain protein structures from cryo-EM density maps**<br>
 <sub>Xiaogen Zhou, Yang Li, Chengxin Zhang, Wei Zheng, Guijun Zhang, Yang Zhang</sub>
 <br>
-*Nature computational science, April 2022.* <br>
+*Nature Computational Science, April 2022.* <br>
 [[paper]](https://www.nature.com/articles/s43588-022-00232-1) [[code]](https://zhanggroup.org/DEMO-EM/) ${\color{red}\texttt{[DEMO-EM]}}$
+
+**Building Protein Atomic Models from Cryo-EM Density Maps and Residue Co-Evolution**<br>
+<sub>Guillaume Bouvier, Benjamin Bardiaux, Riccardo Pellarin, Chiara Rapisarda, Michael Nilges</sub>
+<br>
+*Biomolecules, September 2022.* <br>
+[[paper]](https://www.mdpi.com/2218-273X/12/9/1290) [[code]](https://github.com/bougui505/EMEC) ${\color{red}\texttt{[EMEC]}}$
+
+**De novo main-chain modeling for EM maps using MAINMAST**<br>
+<sub>Genki Terashi, Daisuke Kihara</sub>
+<br>
+*Nature Communications, April 2018.* <br>
+[[paper]](https://www.nature.com/articles/s41467-018-04053-7) [[code]](https://kiharalab.org/emsuites/mainmast.php) ${\color{red}\texttt{[MAINMAST]}}$
+ 
+**Cryo2Struct: A Large Labeled Cryo-EM Density Map Dataset for AI-based Reconstruction of Protein Structures**<br>
+<sub>Genki Terashi, Daisuke Kihara</sub>
+<br>
+*bioRXiv, June 2023.* <br>
+[[paper]](https://www.biorxiv.org/content/10.1101/2023.06.14.545024v1.full.pdf) [[code]](https://github.com/BioinfoMachineLearning/cryo2struct) ${\color{red}\texttt{[Cryo2Struct]}}$
+ 
+
 
 
 <br>
