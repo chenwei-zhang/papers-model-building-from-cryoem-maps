@@ -128,9 +128,14 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *bioRXiv, June 2023.* <br>
 [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.14.545024v1.full.pdf) [[code]](https://github.com/BioinfoMachineLearning/cryo2struct) ${\color{red}\texttt{[Cryo2Struct]}}$
  
+**EM-GAN: Data-Driven Fast Stress Analysis for Multi-Segment Interconnects**<br>
+<sub>Wentian Jin, Sheriff Sadiqbatcha, Zeyu Sun, Han Zhou, Sheldon X.-D. Tan</sub>
+<br>
+*IEEE, December 2020.* <br>
+[[paper]](https://ieeexplore.ieee.org/document/9283508) [[code]](https://github.com/kiharalab/EM-GAN) ${\color{red}\texttt{[EM-GAN]}}$
+ 
 
-
-
+<br>
 <br>
 
 > ### 2.2. Protein Structure Prediction Methods<a name="predict-protein"></a>
