@@ -13,8 +13,7 @@
 
 This repository provides a list of the state-of-the-art methods in atomic model building with cryo-EM density maps. These methods leverage a combination of machine learning, deep learning, and other computational approaches. 
 <br>
-*Note: Model names from the papers are colored with <strong><span style="color: blue;">blue</span></strong>.*
-
+*Note: Model names from the papers are coloured with* ${\color{red}Red}$.
 
 ## 2. Methods<a name="methods"></a>
 
@@ -23,8 +22,8 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 **Model building of protein complexes from intermediate-resolution cryo-EM maps with deep learning-guided automatic assembly** <br>
 <sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao, Sheng-You Huang</sub> <br>
 *Nature Communications, July 2022.* <br>
-[[paper]](https://www.nature.com/articles/s41467-022-31748-9) [[code]](http://huanglab.phys.hust.edu.cn/EMBuild/) <strong><span style="color: blue;">EMBuild</span></strong>
-
+[[paper]](https://www.nature.com/articles/s41467-022-31748-9) [[code]](http://huanglab.phys.hust.edu.cn/EMBuild/) ${\color{red}\texttt{EMBuild}}$
+	
 **FFF: Fragment-Guided Flexible Fitting for Building Complete Protein Structures**<br>
 <sub>Weijie Chen, Xinyan Wang, Yuhang Wang</sub>
 <br>
