@@ -27,7 +27,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <sub>Weijie Chen, Xinyan Wang, Yuhang Wang</sub>
 <br>
 *CVPR, Feburary, 2023.* <br>
-[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_FFF_Fragment-Guided_Flexible_Fitting_for_Building_Complete_Protein_Structures_CVPR_2023_paper.pdf) [[demo]](https://app.bohrium.dp.tech/fff)
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_FFF_Fragment-Guided_Flexible_Fitting_for_Building_Complete_Protein_Structures_CVPR_2023_paper.pdf) [[demo1]](https://app.bohrium.dp.tech/fff) [[demo2]](https://nb.bohrium.dp.tech/detail/2412744727)
 
 **Automated model building and protein identification in cryo-EM maps**<br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
@@ -38,11 +38,14 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 **DeepTracer for fast de novo cryo-EM protein structure modeling and special studies on CoV-related complexes**<br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
 <br>
-*PNAS, December, 2022.* <br>
+*PNAS, December, 2020.* <br>
 [[paper]](https://www.pnas.org/doi/epdf/10.1073/pnas.2017525118) [[demo]](https://deeptracer.uw.edu/home)
 
-
-
+**DeepTracer-ID: De novo protein identification from cryo-EM maps**<br>
+<sub>Luca Chang, Fengbin Wang, Kiernan Connolly, Hanze Meng, Zhangli Su, Virginija Cvirkaite-Krupovic, Mart Krupovic, Edward H. Egelman, Dong Si</sub>
+<br>
+*Biophysical Journal, August, 2022.* <br>
+[[paper]](https://www.cell.com/biophysj/pdf/S0006-3495(22)00511-2.pdf) [[demo]](https://deeptracer.uw.edu/home)
 
 
 <br>
