@@ -6,6 +6,8 @@
   - [Table of Contents](#table-of-contents)
   - [1. Introduction](#1-introduction)
   - [2. Methods](#2-methods)
+    - [2.1 Atomic Model Building Methods](#atomic-model)
+    - [2.2 Protein Structure Prediction Methods](#predict-protein)
   - [3. Contributing](#3-contributing)
   - [4. License](#4-license)
 
