@@ -23,6 +23,13 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Nature Communications, July 2022.* <br>
 [[paper]](https://www.nature.com/articles/s41467-022-31748-9) [[code]](http://huanglab.phys.hust.edu.cn/EMBuild/)
 
+**FFF: Fragment-Guided Flexible Fitting for Building Complete Protein Structures**<br>
+<sub>Weijie Chen, Xinyan Wang, Yuhang Wang</sub>
+<br>
+*CVPR, 2023.* <br>
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_FFF_Fragment-Guided_Flexible_Fitting_for_Building_Complete_Protein_Structures_CVPR_2023_paper.pdf) [[demo]](https://app.bohrium.dp.tech/fff)
+
+
 
 
 
