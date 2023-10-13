@@ -138,6 +138,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <br>
 <br>
 
+
 > ### 2.2. Protein Structure Prediction Methods<a name="predict-protein"></a>
 
 **Highly accurate protein structure prediction with AlphaFold** <br>
@@ -151,8 +152,14 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Science, August 2021.* <br>
 [[paper]](https://www.science.org/doi/10.1126/science.abj8754) [[code]](https://github.com/RosettaCommons/RoseTTAFold) ${\color{red}\texttt{[RoseTTAFold]}}$
 
+**Accurate prediction of protein structures and interactions using a three-track neural network**<br>
+<sub>Ratul Chowdhury, Nazim Bouatta, Surojit Biswas, Christina Floristean, Anant Kharkar, Koushik Roy, Charlotte Rochereau, Gustaf Ahdritz, Joanna Zhang, George M. Church, Peter K. Sorger, Mohammed AlQuraishi</sub>
+<br>
+*Nature Biotechnology, October 2022.* <br>
+[[paper]](https://www.nature.com/articles/s41587-022-01432-w) [[code]](https://github.com/aqlaboratory/rgn2) ${\color{red}\texttt{[RGN2]}}$
 
 <br>
+
 
 ## 3. Contributing<a name="contributing"></a>
 
