@@ -44,6 +44,12 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Protein science, October 2019.* <br>
 [[paper]](https://doi.org/10.1002/pro.3740) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}\texttt{[phenix.map-to-model]}}$
 
+**Cryo-EM map interpretation and protein model-building using iterative map segmentation**<br>
+<sub>Dorothee Liebschner, Pavel V. Afonine, Matthew L. Baker, Gábor Bunkóczi, Vincent B. Chen, Tristan I. Croll, Bradley Hintze, Li-Wei Hung, Swati Jain, Airlie J. McCoy, Nigel W. Moriarty, Robert D. Oeffner, Billy K. Poon, Michael G. Prisant, Randy J. Read, Jane S. Richardson, David C. Richardson, Massimo D. Sammito, Oleg V. Sobolev, Duncan H. Stockwell, Thomas C. Terwilliger, Alexandre G. Urzhumtsev, Lizbeth L. Videau, Christopher J. Williams, Paul D. Adams</sub>
+<br>
+*Structural Biology, October 2019.* <br>
+[[paper]](https://journals.iucr.org/d/issues/2019/10/00/di5033/index.html) [[code]](https://phenix-online.org/documentation/reference/dock_in_map.html) ${\color{red}\texttt{[phenix.dock-in-map]}}$
+
 **Automated model building and protein identification in cryo-EM maps**<br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
 <br>
