@@ -42,7 +42,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <sub>Thomas C. Terwilliger, Paul D. Adams, Pavel V. Afonine, Oleg V. Sobolev</sub>
 <br>
 *Protein science, October 2019.* <br>
-[[paper]](https://doi.org/10.1002/pro.3740) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}\texttt{[phenix.map_to_model]}}$
+[[paper]](https://doi.org/10.1002/pro.3740) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}\texttt{[phenix.map-to-model]}}$
 
 **Automated model building and protein identification in cryo-EM maps**<br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
