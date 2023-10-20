@@ -13,7 +13,7 @@
 
 ## 1. Introduction<a name="introduction"></a>
 
-This repository provides a list of the state-of-the-art methods in atomic model building with cryo-EM density maps. These methods leverage a combination of machine learning, deep learning, and other computational approaches. 
+This repository provides a list of the state-of-the-art methods in atomic model building (with cryo-EM density maps). These methods leverage a combination of machine learning, deep learning, and other computational algorithms. 
 <br>
 *Note: Model names from the papers are coloured with* ${\color{red} \texttt{[RED]}}$.
 
@@ -55,6 +55,36 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <br>
 *Biophysical Journal, August 2022.* <br>
 [[paper]](https://www.cell.com/biophysj/pdf/S0006-3495(22)00511-2.pdf) [[demo]](https://deeptracer.uw.edu/home) ${\color{red}\texttt{[DeepTracer-ID]}}$
+
+**I-TASSER: a unified platform for automated protein structure and function prediction**<br>
+<sub>Ambrish Roy, Alper Kucukural, Yang Zhang</sub>
+<br>
+*Nature Protocols, March 2010.* <br>
+[[paper]](https://www.nature.com/articles/nprot.2010.5) [[code]](https://zhanggroup.org/I-TASSER/) ${\color{red}\texttt{[I-TASSER]}}$
+
+**The I-TASSER Suite: protein structure and function prediction**<br>
+<sub>Jianyi Yang, Renxiang Yan, Ambrish Roy, Dong Xu, Jonathan Poisson, Yang Zhang</sub>
+<br>
+*Nature Methods, December 2014.* <br>
+[[paper]](https://www.nature.com/articles/nmeth.3213) [[code]](http://zhanglab.ccmb.med.umich.edu/I-TASSER/download/) ${\color{red}\texttt{[I-TASSER Suite]}}$
+
+**Deep learning geometrical potential for high-accuracy ab initio protein structure prediction**<br>
+<sub>Yang Li, Chengxin Zhang, Dong-Jun Yu, Yang Zhang</sub>
+<br>
+*Iscience, June 2022.* <br>
+[[paper]](https://doi.org/10.1016/j.isci.2022.104425) [[code]](https://zhanggroup.org/DeepPotential/) ${\color{red}\texttt{[DeepPotential]}}$
+
+**Folding non-homologous proteins by coupling deep-learning contact maps with I-TASSER assembly simulations**<br>
+<sub>Xiaogen Zhou, Wei Zheng, Yang Li, Robin Pearce, Chengxin Zhang, Eric W. Bell, Guijun Zhang and Yang Zhang</sub>
+<br>
+*Nature Protocols, August 2022.* <br>
+[[paper]](https://zhanggroup.org/papers/2022_7.pdf) [[code]](https://zhanggroup.org/I-TASSER-MTD/) ${\color{red}\texttt{[I-TASSER-MTD]}}$
+
+**Folding non-homologous proteins by coupling deep-learning contact maps with I-TASSER assembly simulations**<br>
+<sub>Wei Zheng, Chengxin Zhang, Yang Li, Robin Pearce, Eric W Bell, Yang Zhang</sub>
+<br>
+*Cell Reports Methods, July 2021.* <br>
+[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336924/) [[code]](https://zhanggroup.org/C-I-TASSER/) ${\color{red}\texttt{[C-I-TASSER]}}$
 
 **CR-I-TASSER: assemble protein structures from cryo-EM density maps using deep convolutional neural networks**<br>
 <sub>Xi Zhang, Biao Zhang, Peter L. Freddolino, Yang Zhang</sub>
@@ -134,6 +164,19 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *IEEE, December 2020.* <br>
 [[paper]](https://ieeexplore.ieee.org/document/9283508) [[code]](https://github.com/kiharalab/EM-GAN) ${\color{red}\texttt{[EM-GAN]}}$
  
+**Ab initio protein structure assembly using continuous structure fragments and optimized knowledge-based force field**<br>
+<sub>Dong Xu, Yang Zhang</sub>
+<br>
+*Proteins: Structure, Function, and Bioinformatics, March 2012.* <br>
+[[paper]](https://zhanggroup.org/papers/2012_7.pdf) [[code]](https://zhanggroup.org/QUARK/) ${\color{red}\texttt{[QUARK]}}$
+
+**Improving fragment-based ab initio protein structure assembly using low-accuracy contact-map predictions**<br>
+<sub>S. M. Mortuza, Wei Zheng, Chengxin Zhang, Yang Li, Robin Pearce, Yang Zhang </sub>
+<br>
+*Nature Communications, and Bioinformatics,  August 2021.* <br>
+[[paper]](https://seq2fun.dcmb.med.umich.edu//papers/2021_13.pdf) [[code]](https://zhanggroup.org/C-QUARK/) ${\color{red}\texttt{[C-QUARK]}}$
+
+
 
 <br>
 <br>
