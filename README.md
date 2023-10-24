@@ -21,6 +21,14 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 
 > ### 2.1. Atomic Model Building Methods<a name="atomic-model"></a>
 
+
+**A graph neural network approach to auto-
+mated model building in cryo-em maps** <br>
+<sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao, Sheng-You Huang</sub> <br>
+*ICLR 2023* <br>
+[[paper]](https://arxiv.org/pdf/2210.00006.pdf) [[code]](http://huanglab.phys.hust.edu.cn/EMBuild/) ${\color{red}\texttt{[ModelAngelo]}}$
+	
+
 **Model building of protein complexes from intermediate-resolution cryo-EM maps with deep learning-guided automatic assembly** <br>
 <sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao, Sheng-You Huang</sub> <br>
 *Nature Communications, July 2022.* <br>
