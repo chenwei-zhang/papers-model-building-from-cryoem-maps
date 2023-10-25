@@ -24,7 +24,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 
 **A graph neural network approach to auto-
 mated model building in cryo-em maps** <br>
-<sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao, Sheng-You Huang</sub> <br>
+<sub>Kiarash Jamali, Dari Kimanius, & Sjors H.W. Scheres</sub> <br>
 *ICLR 2023* <br>
 [[paper]](https://arxiv.org/pdf/2210.00006.pdf) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo]}}$
 	
