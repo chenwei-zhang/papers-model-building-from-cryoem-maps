@@ -21,10 +21,14 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 
 > ### 2.1. Atomic Model Building Methods<a name="atomic-model"></a>
 
+**Data-driven regularisation lowers the size barrier of cryo-EM structure determination** <br>
+<sub>Dari Kimanius, Kiarash Jamali, Max E Wilkinson, Sofia Lövestam, Vaithish Velazhahan, Takanori Nakane, Sjors H.W. Scheres</sub><br>
+*bioRXiv, October 2023.* <br>
+[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.23.563586v1.full.pdf) [[code]](https://github.com/3dem/relion) ${\color{red}\texttt{[Blush Regularisation]}}$
 
 **A graph neural network approach to automated model building in cryo-EM maps** <br>
 <sub>Kiarash Jamali, Dari Kimanius, & Sjors H.W. Scheres</sub> <br>
-*ICLR 2023* <br>
+*ICLR, February 2023* <br>
 [[paper]](https://arxiv.org/pdf/2210.00006.pdf) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo]}}$
 	
 
@@ -44,6 +48,12 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <br>
 *Nature Methods, October 2022.* <br>
 [[paper]](https://www.nature.com/articles/s41592-022-01645-6) [[code]](https://github.com/phenix-project/Colabs) ${\color{red}\texttt{[Iterative AlphaFold]}}$
+
+**Cryo_fit: Democratization of flexible fitting for cryo-EM**<br>
+<sub>Doo Nam Kim, Nigel W. Moriarty, Serdal Kirmizialtin, Pavel V. Afonine, Billy Poon, Oleg V. Sobolev, Paul D. Adams, Karissa Sanbonmatsu</sub>
+<br>
+*Journal of Structural Biology, October 2019.* <br>
+[[paper]](https://doi.org/10.1016/j.jsb.2019.05.012) [[code]](https://phenix-online.org/documentation/tutorials/cryo_fit_install.html) ${\color{red}\texttt{[Cryo-fit]}}$
 
 **A fully automatic method yielding initial models from high-resolution cryo-electron microscopy maps**<br>
 <sub>Thomas C. Terwilliger, Paul D. Adams, Pavel V. Afonine, Oleg V. Sobolev</sub>
