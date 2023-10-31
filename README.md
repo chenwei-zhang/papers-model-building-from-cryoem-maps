@@ -209,13 +209,15 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <sub>Thomas C. Terwilliger, Paul D. Adams, Pavel V. Afonine, Oleg V. Sobolev</sub>
 <br>
 *Nature Methods, October 2018.* <br>
-[[paper]](https://www.nature.com/articles/s41592-018-0173-1) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}{\texttt{[phenix.map}}\_\texttt{to}\_\texttt{model]}}$
+[[paper]](https://www.nature.com/articles/s41592-018-0173-1) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}\texttt{[phenix.map-to-model]}}$
+
 
 **Macromolecular structure determination using X-rays, neutrons and electrons: recent developments in Phenix**<br>
 <sub>Dorothee Liebschner, Pavel V. Afonine, Matthew L. Baker, Gábor Bunkóczi, Vincent B. Chen, Tristan I. Croll, Bradley Hintze, Li-Wei Hung, Swati Jain, Airlie J. McCoy, Nigel W. Moriarty, Robert D. Oeffner, Billy K. Poon, Michael G. Prisant, Randy J. Read, Jane S. Richardson, David C. Richardson, Massimo D. Sammito, Oleg V. Sobolev, Duncan H. Stockwell, Thomas C. Terwilliger, Alexandre G. Urzhumtsev, Lizbeth L. Videau, Christopher J. Williams, Paul D. Adams</sub>
 <br>
 *Structural Biology, October 2019.* <br>
-[[paper]](https://journals.iucr.org/d/issues/2019/10/00/di5033/index.html) [[code]](https://phenix-online.org/documentation/reference/dock_in_map.html) ${\color{red}{\texttt{[phenix.dock}}\_\texttt{in}\_\texttt{map]}}$
+[[paper]](https://journals.iucr.org/d/issues/2019/10/00/di5033/index.html) [[code]](https://phenix-online.org/documentation/reference/dock_in_map.html) ${\color{red}\texttt{[phenix.dock-in-map]}}$
+
 
 **De novo main-chain modeling for EM maps using MAINMAST**<br>
 <sub>Genki Terashi, Daisuke Kihara</sub>
