@@ -238,7 +238,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000106#:~:text=Deep%20learning%20is%20a%20promising,from%20cryo%2DEM%20density%20maps.&text=Convolutional%20neural%20networks%20and%20U,from%20cryo%2DEM%20density%20maps)
 
 **Novel Artificial Intelligence-Based Approaches for Ab Initio Structure Determination and Atomic Model Building for Cryo-Electron Microscopy**<br>
-<sub>Megan C. Dilorio， Arkadiusz W. Kulczyk</sub>
+<sub>Megan C. DiIorio， Arkadiusz W. Kulczyk</sub>
 <br>
 *Micromachines, August 2023.* <br>
 [[paper]](https://www.mdpi.com/2072-666X/14/9/1674)
