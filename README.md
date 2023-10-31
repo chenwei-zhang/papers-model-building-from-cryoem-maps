@@ -7,6 +7,7 @@
   - [1. Introduction](#1-introduction)
   - [2. Methods](#2-methods)
     - [2.1 Atomic Model Building Methods](#atomic-model)
+    - [2.2 Review Papers for Model Building Using DL](#review)
     - [2.2 Protein Structure Prediction Methods](#predict-protein)
   - [3. Contributing](#3-contributing)
   - [4. License](#4-license)
@@ -30,7 +31,6 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <sub>Kiarash Jamali, Dari Kimanius, & Sjors H.W. Scheres</sub> <br>
 *ICLR, February 2023* <br>
 [[paper]](https://arxiv.org/pdf/2210.00006.pdf) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo]}}$
-	
 
 **Model building of protein complexes from intermediate-resolution cryo-EM maps with deep learning-guided automatic assembly** <br>
 <sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao, Sheng-You Huang</sub> <br>
@@ -49,23 +49,11 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Nature Methods, October 2022.* <br>
 [[paper]](https://www.nature.com/articles/s41592-022-01645-6) [[code]](https://github.com/phenix-project/Colabs) ${\color{red}\texttt{[Iterative AlphaFold]}}$
 
-**Cryo_fit: Democratization of flexible fitting for cryo-EM**<br>
-<sub>Doo Nam Kim, Nigel W. Moriarty, Serdal Kirmizialtin, Pavel V. Afonine, Billy Poon, Oleg V. Sobolev, Paul D. Adams, Karissa Sanbonmatsu</sub>
+**$A^2$-Net: Molecular Structure Estimation from Cryo-EM Density Volumes**<br>
+<sub>Kui Xu, Zhe Wang, Jianping Shi, Hongsheng Li, Qiangfeng Cliff Zhang</sub>
 <br>
-*Journal of Structural Biology, October 2019.* <br>
-[[paper]](https://doi.org/10.1016/j.jsb.2019.05.012) [[code]](https://phenix-online.org/documentation/tutorials/cryo_fit_install.html) ${\color{red}\texttt{[Cryo-fit]}}$
-
-**A fully automatic method yielding initial models from high-resolution cryo-electron microscopy maps**<br>
-<sub>Thomas C. Terwilliger, Paul D. Adams, Pavel V. Afonine, Oleg V. Sobolev</sub>
-<br>
-*Nature Methods, October 2018.* <br>
-[[paper]](https://www.nature.com/articles/s41592-018-0173-1) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}\texttt{[phenix.map-to-model]}}$
-
-**Macromolecular structure determination using X-rays, neutrons and electrons: recent developments in Phenix**<br>
-<sub>Dorothee Liebschner, Pavel V. Afonine, Matthew L. Baker, Gábor Bunkóczi, Vincent B. Chen, Tristan I. Croll, Bradley Hintze, Li-Wei Hung, Swati Jain, Airlie J. McCoy, Nigel W. Moriarty, Robert D. Oeffner, Billy K. Poon, Michael G. Prisant, Randy J. Read, Jane S. Richardson, David C. Richardson, Massimo D. Sammito, Oleg V. Sobolev, Duncan H. Stockwell, Thomas C. Terwilliger, Alexandre G. Urzhumtsev, Lizbeth L. Videau, Christopher J. Williams, Paul D. Adams</sub>
-<br>
-*Structural Biology, October 2019.* <br>
-[[paper]](https://journals.iucr.org/d/issues/2019/10/00/di5033/index.html) [[code]](https://phenix-online.org/documentation/reference/dock_in_map.html) ${\color{red}\texttt{[phenix.dock-in-map]}}$
+*AAAI, July 2019.* <br>
+[[paper]](https://arxiv.org/pdf/1901.00785.pdf) [[code]](https://github.com/phenix-project/Colabs) ${\color{red}{\texttt{[}}A^2\texttt{-Net]}}$
 
 **Automated model building and protein identification in cryo-EM maps**<br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
@@ -73,29 +61,17 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *bioRXiv, May 2023.* <br>
 [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.16.541002v1.full.pdf) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo]}}$
 
-**DeepTracer for fast de novo cryo-EM protein structure modeling and special studies on CoV-related complexes**<br>
-<sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
-<br>
-*PNAS, December 2020.* <br>
-[[paper]](https://www.pnas.org/doi/epdf/10.1073/pnas.2017525118) [[demo]](https://deeptracer.uw.edu/home) ${\color{red}\texttt{[DeepTracer]}}$
-
 **DeepTracer-ID: De novo protein identification from cryo-EM maps**<br>
 <sub>Luca Chang, Fengbin Wang, Kiernan Connolly, Hanze Meng, Zhangli Su, Virginija Cvirkaite-Krupovic, Mart Krupovic, Edward H. Egelman, Dong Si</sub>
 <br>
 *Biophysical Journal, August 2022.* <br>
 [[paper]](https://www.cell.com/biophysj/pdf/S0006-3495(22)00511-2.pdf) [[demo]](https://deeptracer.uw.edu/home) ${\color{red}\texttt{[DeepTracer-ID]}}$
 
-**I-TASSER: a unified platform for automated protein structure and function prediction**<br>
-<sub>Ambrish Roy, Alper Kucukural, Yang Zhang</sub>
+**DeepTracer for fast de novo cryo-EM protein structure modeling and special studies on CoV-related complexes**<br>
+<sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
 <br>
-*Nature Protocols, March 2010.* <br>
-[[paper]](https://www.nature.com/articles/nprot.2010.5) [[code]](https://zhanggroup.org/I-TASSER/) ${\color{red}\texttt{[I-TASSER]}}$
-
-**The I-TASSER Suite: protein structure and function prediction**<br>
-<sub>Jianyi Yang, Renxiang Yan, Ambrish Roy, Dong Xu, Jonathan Poisson, Yang Zhang</sub>
-<br>
-*Nature Methods, December 2014.* <br>
-[[paper]](https://www.nature.com/articles/nmeth.3213) [[code]](http://zhanglab.ccmb.med.umich.edu/I-TASSER/download/) ${\color{red}\texttt{[I-TASSER Suite]}}$
+*PNAS, December 2020.* <br>
+[[paper]](https://www.pnas.org/doi/epdf/10.1073/pnas.2017525118) [[demo]](https://deeptracer.uw.edu/home) ${\color{red}\texttt{[DeepTracer]}}$
 
 **Deep learning geometrical potential for high-accuracy ab initio protein structure prediction**<br>
 <sub>Yang Li, Chengxin Zhang, Dong-Jun Yu, Yang Zhang</sub>
@@ -121,11 +97,23 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Nature Methods, February 2022.* <br>
 [[paper]](https://www.nature.com/articles/s41592-021-01389-9) [[code]](https://zhanggroup.org/CR-I-TASSER/) ${\color{red}\texttt{[CR-I-TASSER]}}$
 
+**I-TASSER: a unified platform for automated protein structure and function prediction**<br>
+<sub>Ambrish Roy, Alper Kucukural, Yang Zhang</sub>
+<br>
+*Nature Protocols, March 2010.* <br>
+[[paper]](https://www.nature.com/articles/nprot.2010.5) [[code]](https://zhanggroup.org/I-TASSER/) ${\color{red}\texttt{[I-TASSER]}}$
+
+**The I-TASSER Suite: protein structure and function prediction**<br>
+<sub>Jianyi Yang, Renxiang Yan, Ambrish Roy, Dong Xu, Jonathan Poisson, Yang Zhang</sub>
+<br>
+*Nature Methods, December 2014.* <br>
+[[paper]](https://www.nature.com/articles/nmeth.3213) [[code]](http://zhanglab.ccmb.med.umich.edu/I-TASSER/download/) ${\color{red}\texttt{[I-TASSER Suite]}}$
+
 **EMNUSS: a deep learning framework for secondary structure annotation in cryo-EM maps**<br>
 <sub>Jiahua He, Sheng-You Huang</sub>
 <br>
 *Briefings in bioinformatics, November 2021.* <br>
-[[paper]](https://watermark.silverchair.com/bbab156.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1AwggNMBgkqhkiG9w0BBwagggM9MIIDOQIBADCCAzIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwO8SZZzx-zr4xF4_AgEQgIIDA6mV7c-NiL1AsibRt4bSt7I37TmhDVI8Bt8AOzrVhSIjE_pHpBpsUzrUYd1ZU8zJc9F-sjzCD7gB0xL2VfaDZxU2uC_BmeL0j8AHSN1EC7FnLqghlqW7NV6ZxW7ZWEE9x8k6bJG_u7DMPMRfYWCkbll6fIFSut3XFw47_0WTPRerOcs7RutECxJ4MSo2-VmffZoeB-AaTN3Gfr5yhpIrTN_YgWucIQ9Pj5lkXfVm-6qBS6mhh78ZQZP2SB4ugrl0BMpnt98prVuY_LFTsFeuLPQTg_McFyCcPUNgGEMkiSd94F-2TaA5A7AuFt0Ic8ork9d-zwCjxweGji6fUqU0Vp9_Wy4tivz_95Z1fb1dBAcuiea34pc-MGYpZHfRK6hdpiql7jMeUkodp08An6r79PGJwEvdjnLj1IhnOZGYkBMn0qypZYf-KGcd9rYWiSN2myL89exaDzL6CEUVNTuVroapkD09ww6Tbn5IybBH0qWd2nvvV_LVsoveqvcKCNQY5Du-et-ci3q_Pq3pm31S-dqu_3dGUbBChiIpmq3z64GSfsCuHHGNo1ysFJWrQEnw8Y_Ky-w_CwfOTVFFY1AHaY4kSNwgIanTRJIQR2Ew5yopOYyKUTWoYJJRbTscZ1l3yR3RFMftWFv3uZ1RDWHgmTArZm3jKuLH8NbDqHBBzOwx3Wmjogni4JEiqLta56OqtXS8i7tx4hzCCC9bkaGPOmV6v_uDYQsaew-8MpyOEf_1ADKITn_Nvif5LiGOcKz69xIEEu6nj7lroPAHD9xIDhS2bhdAfHecCKXAb659bNPzuRWOHWl7ckqmH2zeFV6aZt1iikgWwCMtHAl9P6HrhTyvbZiUT8nHvQETAig2kz8tns2kK-UwwoWU52uvustkmB3-hrNl-wvtm6smFHw48uwzsXhqkmer_jLqq4AjzBeHYmhmXMQI5mXyDOfVnKgi-CdTMeY7i3tl2-P3PCw_qSCGLCUHorGnKO-OkRqaPuurgaaYi3MIEe2JCZt9OAFQ3G4vyw) [[code]](https://github.com/JiahuaHe/EMNUSS) ${\color{red}\texttt{[EMNUSS]}}$
+[[paper]](https://academic.oup.com/bib/article/22/6/bbab156/6265218) [[code]](https://github.com/JiahuaHe/EMNUSS) ${\color{red}\texttt{[EMNUSS]}}$
 
 **Haruspex: A Neural Network for the Automatic Identification of Oligonucleotides and Protein Secondary Structure in Cryo-Electron Microscopy Maps**<br>
 <sub>Philipp Mostosi, Hermann Schindelin, Philip Kollmannsberger, Andrea Thorn</sub>
@@ -139,17 +127,29 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Scientific reports, March 2020.* <br>
 [[paper]](https://www.nature.com/articles/s41598-020-60598-y) [[code]](https://github.com/DrDongSi/Ca-Backbone-Prediction) ${\color{red}\texttt{[Cascaded-CNN]}}$
 
+**Full-length de novo protein structure determination from cryo-EM maps using deep learning**<br>
+<sub>Jiahua He, Sheng-You Huang</sub>
+<br>
+*Bioinformatics, October 2021.* <br>
+[[paper]](https://doi.org/10.1093/bioinformatics/btab357) [[code]](https://github.com/JiahuaHe/DeepMM) ${\color{red}\texttt{[DeepMM]}}$
+
 **Deep convolutional neural networks for detecting secondary structures in protein density maps from cryo-electron microscopy**<br>
 <sub>Rongjian Li, Dong Si, Tao Zeng, Shuiwang Ji, Jing He</sub>
 <br>
 *IEEE, December 2016.* <br>
-[[paper]](https://ieeexplore.ieee.org/abstract/document/7822490/authors#authors)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/7822490/authors#authors) ${\color{red}\texttt{[CNN-Based]}}$
 
 **AAnchor: CNN guided detection of anchor amino acids in high resolution cryo-EM density maps**<br>
 <sub>Mark Rozanov, Haim J. Wolfson</sub>
 <br>
 *IEEE, January 2019.* <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/8621288) [[demo]](http://bioinfo3d.cs.tau.ac.il/AAnchor/) ${\color{red}\texttt{[AAnchor]}}$
+
+**Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate resolution using deep learning**<br>
+<sub>Xiao Wang, Eman Alnabati, Tunde W. Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi & Daisuke Kihara</sub>
+<br>
+*Nature Communications, April 2021.* <br>
+[[paper]](https://www.nature.com/articles/s41592-019-0500-1) [[code]](https://github.com/kiharalab/Emap2sec) ${\color{red}\texttt{[Emap2sec+]}}$
 
 **Protein secondary structure detection in intermediate-resolution cryo-EM maps using deep learning**<br>
 <sub>MSai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, Daisuke Kihara</sub>
@@ -174,12 +174,6 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <br>
 *Biomolecules, September 2022.* <br>
 [[paper]](https://www.mdpi.com/2218-273X/12/9/1290) [[code]](https://github.com/bougui505/EMEC) ${\color{red}\texttt{[EMEC]}}$
-
-**De novo main-chain modeling for EM maps using MAINMAST**<br>
-<sub>Genki Terashi, Daisuke Kihara</sub>
-<br>
-*Nature Communications, April 2018.* <br>
-[[paper]](https://www.nature.com/articles/s41467-018-04053-7) [[code]](https://kiharalab.org/emsuites/mainmast.php) ${\color{red}\texttt{[MAINMAST]}}$
  
 **Cryo2Struct: A Large Labeled Cryo-EM Density Map Dataset for AI-based Reconstruction of Protein Structures**<br>
 <sub>Genki Terashi, Daisuke Kihara</sub>
@@ -205,13 +199,55 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Nature Communications, and Bioinformatics,  August 2021.* <br>
 [[paper]](https://seq2fun.dcmb.med.umich.edu//papers/2021_13.pdf) [[code]](https://zhanggroup.org/C-QUARK/) ${\color{red}\texttt{[C-QUARK]}}$
 
+**Cryo_fit: Democratization of flexible fitting for cryo-EM**<br>
+<sub>Doo Nam Kim, Nigel W. Moriarty, Serdal Kirmizialtin, Pavel V. Afonine, Billy Poon, Oleg V. Sobolev, Paul D. Adams, Karissa Sanbonmatsu</sub>
+<br>
+*Journal of Structural Biology, October 2019.* <br>
+[[paper]](https://doi.org/10.1016/j.jsb.2019.05.012) [[code]](https://phenix-online.org/documentation/tutorials/cryo_fit_install.html) ${\color{red}\texttt{[Cryo-fit]}}$
+
+**A fully automatic method yielding initial models from high-resolution cryo-electron microscopy maps**<br>
+<sub>Thomas C. Terwilliger, Paul D. Adams, Pavel V. Afonine, Oleg V. Sobolev</sub>
+<br>
+*Nature Methods, October 2018.* <br>
+[[paper]](https://www.nature.com/articles/s41592-018-0173-1) [[code]](https://phenix-online.org/documentation/reference/map_to_model.html) ${\color{red}{\texttt{[phenix.map}}\_\texttt{to}\_\texttt{model]}}$
+
+**Macromolecular structure determination using X-rays, neutrons and electrons: recent developments in Phenix**<br>
+<sub>Dorothee Liebschner, Pavel V. Afonine, Matthew L. Baker, Gábor Bunkóczi, Vincent B. Chen, Tristan I. Croll, Bradley Hintze, Li-Wei Hung, Swati Jain, Airlie J. McCoy, Nigel W. Moriarty, Robert D. Oeffner, Billy K. Poon, Michael G. Prisant, Randy J. Read, Jane S. Richardson, David C. Richardson, Massimo D. Sammito, Oleg V. Sobolev, Duncan H. Stockwell, Thomas C. Terwilliger, Alexandre G. Urzhumtsev, Lizbeth L. Videau, Christopher J. Williams, Paul D. Adams</sub>
+<br>
+*Structural Biology, October 2019.* <br>
+[[paper]](https://journals.iucr.org/d/issues/2019/10/00/di5033/index.html) [[code]](https://phenix-online.org/documentation/reference/dock_in_map.html) ${\color{red}{\texttt{[phenix.dock}}\_\texttt{in}\_\texttt{map]}}$
+
+**De novo main-chain modeling for EM maps using MAINMAST**<br>
+<sub>Genki Terashi, Daisuke Kihara</sub>
+<br>
+*Nature Communications, April 2018.* <br>
+[[paper]](https://www.nature.com/articles/s41467-018-04053-7) [[code]](https://kiharalab.org/emsuites/mainmast.php) ${\color{red}\texttt{[MAINMAST]}}$
 
 
 <br>
 <br>
 
 
-> ### 2.2. Protein Structure Prediction Methods<a name="predict-protein"></a>
+> ### 2.2. Review Papers for Model Building Using DL<a name="review"></a>
+**Deep learning for reconstructing protein structures from cryo-EM density maps: Recent advances and future directions**<br>
+<sub>Nabin Giri, Raj S. Roy, Jianlin Cheng</sub>
+<br>
+*Current Opinion in Structural Biology, April 2023.* <br>
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000106#:~:text=Deep%20learning%20is%20a%20promising,from%20cryo%2DEM%20density%20maps.&text=Convolutional%20neural%20networks%20and%20U,from%20cryo%2DEM%20density%20maps)
+
+**Novel Artificial Intelligence-Based Approaches for Ab Initio Structure Determination and Atomic Model Building for Cryo-Electron Microscopy**<br>
+<sub>Megan C. Dilorio， Arkadiusz W. Kulczyk</sub>
+<br>
+*Micromachines, August 2023.* <br>
+[[paper]](https://www.mdpi.com/2072-666X/14/9/1674)
+
+
+
+<br>
+<br>
+
+
+> ### 2.3. Protein Structure Prediction Methods<a name="predict-protein"></a>
 
 **Highly accurate protein structure prediction with AlphaFold** <br>
 <sub>John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis</sub> <br>
