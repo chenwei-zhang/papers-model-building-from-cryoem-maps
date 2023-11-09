@@ -22,15 +22,20 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 
 > ### 2.1. Atomic Model Building Methods<a name="atomic-model"></a>
 
+**Automated model building and protein identification in cryo-EM maps** <br>
+<sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub> <br>
+*bioRXiv, May 2023* <br>
+[[paper]](https://www.biorxiv.org/content/10.1101/2023.05.16.541002v1) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo 1.0]}}$
+
+**A graph neural network approach to automated model building in cryo-EM maps** <br>
+<sub>Kiarash Jamali, Dari Kimanius, Sjors H.W. Scheres</sub> <br>
+*ICLR, February 2023* <br>
+[[paper]](https://arxiv.org/pdf/2210.00006.pdf) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo 0.3]}}$
+
 **Data-driven regularisation lowers the size barrier of cryo-EM structure determination** <br>
 <sub>Dari Kimanius, Kiarash Jamali, Max E Wilkinson, Sofia Lövestam, Vaithish Velazhahan, Takanori Nakane, Sjors H.W. Scheres</sub><br>
 *bioRXiv, October 2023.* <br>
 [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.23.563586v1.full.pdf) [[code]](https://github.com/3dem/relion) ${\color{red}\texttt{[Blush Regularisation]}}$
-
-**A graph neural network approach to automated model building in cryo-EM maps** <br>
-<sub>Kiarash Jamali, Dari Kimanius, & Sjors H.W. Scheres</sub> <br>
-*ICLR, February 2023* <br>
-[[paper]](https://arxiv.org/pdf/2210.00006.pdf) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo]}}$
 
 **Model building of protein complexes from intermediate-resolution cryo-EM maps with deep learning-guided automatic assembly** <br>
 <sub>Jiahua He, Peicong Lin, Ji Chen, Hong Cao, Sheng-You Huang</sub> <br>
