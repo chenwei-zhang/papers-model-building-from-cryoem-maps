@@ -42,6 +42,11 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Nature Communications, July 2022.* <br>
 [[paper]](https://www.nature.com/articles/s41467-022-31748-9) [[code]](http://huanglab.phys.hust.edu.cn/EMBuild/) ${\color{red}\texttt{[EMBuild]}}$
 	
+**Integrated Protocol of Protein Structure Modeling for Cryo-EM with Deep Learning and Structure Prediction** <br>
+<sub>Genki Terashi, Xiao Wang, Devashish Prasad, Tsukasa Nakamura, Daisuke Kihara</sub> <br>
+*bioRXiv, October 2023.* <br>
+[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.19.563151v1.full.pdf) [[code]](https://github.com/kiharalab/DeepMainMast) ${\color{red}\texttt{[DeepMainMast]}}$
+	
 **FFF: Fragment-Guided Flexible Fitting for Building Complete Protein Structures**<br>
 <sub>Weijie Chen, Xinyan Wang, Yuhang Wang</sub>
 <br>
