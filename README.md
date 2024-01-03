@@ -272,7 +272,13 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 *Science, August 2021.* <br>
 [[paper]](https://www.science.org/doi/10.1126/science.abj8754) [[code]](https://github.com/RosettaCommons/RoseTTAFold) ${\color{red}\texttt{[RoseTTAFold]}}$
 
-**Accurate prediction of protein structures and interactions using a three-track neural network**<br>
+**Evolutionary-scale prediction of atomic-level protein structure with a language model**<br>
+<sub>Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan Dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives</sub>
+<br>
+*Science, March 2023.* <br>
+[[paper]](https://www.science.org/doi/full/10.1126/science.ade2574) [[code]](https://github.com/facebookresearch/esm) ${\color{red}\texttt{[ESMFold]}}$
+
+**Single-sequence protein structure prediction using a language model and deep learning**<br>
 <sub>Ratul Chowdhury, Nazim Bouatta, Surojit Biswas, Christina Floristean, Anant Kharkar, Koushik Roy, Charlotte Rochereau, Gustaf Ahdritz, Joanna Zhang, George M. Church, Peter K. Sorger, Mohammed AlQuraishi</sub>
 <br>
 *Nature Biotechnology, October 2022.* <br>
