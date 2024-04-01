@@ -159,7 +159,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <sub>Xiao Wang, Eman Alnabati, Tunde W. Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi & Daisuke Kihara</sub>
 <br>
 *Nature Communications, April 2021.* <br>
-[[paper]](https://www.nature.com/articles/s41592-019-0500-1) [[code]](https://github.com/kiharalab/Emap2sec) ${\color{red}\texttt{[Emap2sec+]}}$
+[[paper]](https://www.nature.com/articles/s41467-021-22577-3) [[code]](https://github.com/kiharalab/Emap2sec) ${\color{red}\texttt{[Emap2sec+]}}$
 
 **Protein secondary structure detection in intermediate-resolution cryo-EM maps using deep learning**<br>
 <sub>MSai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, Daisuke Kihara</sub>
