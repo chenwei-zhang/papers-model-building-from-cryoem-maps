@@ -24,8 +24,8 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 
 **Automated model building and protein identification in cryo-EM maps** <br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub> <br>
-*bioRXiv, May 2023* <br>
-[[paper]](https://www.biorxiv.org/content/10.1101/2023.05.16.541002v1) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo 1.0]}}$
+*Nature, Feb 2024* <br>
+[[paper]](https://www.nature.com/articles/s41586-024-07215-4) [[code]](https://github.com/3dem/model-angelo) ${\color{red}\texttt{[ModelAngelo 1.0]}}$
 
 **A graph neural network approach to automated model building in cryo-EM maps** <br>
 <sub>Kiarash Jamali, Dari Kimanius, Sjors H.W. Scheres</sub> <br>
