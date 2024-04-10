@@ -63,7 +63,7 @@ This repository provides a list of the state-of-the-art methods in atomic model 
 <sub>Kui Xu, Zhe Wang, Jianping Shi, Hongsheng Li, Qiangfeng Cliff Zhang</sub>
 <br>
 *AAAI, July 2019.* <br>
-[[paper]](https://arxiv.org/pdf/1901.00785.pdf) [[code]](https://github.com/phenix-project/Colabs) ${\color{red}{\texttt{[}}A^2\texttt{-Net]}}$
+[[paper]](https://arxiv.org/pdf/1901.00785.pdf) ${\color{red}{\texttt{[}}A^2\texttt{-Net]}}$
 
 **Automated model building and protein identification in cryo-EM maps**<br>
 <sub>Kiarash Jamali, Lukas Käll, Rui Zhang, Alan Brown, Dari Kimanius, Sjors H.W. Scheres</sub>
