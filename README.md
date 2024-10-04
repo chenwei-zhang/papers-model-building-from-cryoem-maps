@@ -1,4 +1,4 @@
-# Paper List for Protein Atomic Model Building 
+# Paper List for Atomic Model Building from Cryo-EM Density Maps
 
 ## Table of Contents
 
