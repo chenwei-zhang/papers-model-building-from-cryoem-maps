@@ -26,7 +26,7 @@ This repository provides a list of the state-of-the-art methods on (i) atomic mo
 > ### 2.1. Direct Atomic Model-Building Methods<a name="direct-method"></a>
 
 **De novo atomic protein structure modeling for cryoEM density maps using 3D transformer and HMM**<br> <sub>Nabin Giri, Jianlin Cheng</sub> <br> 
-*Nature Communications, June 2024. <br> 
+*Nature Communications, June 2024.* <br> 
 [[paper]](https://www.nature.com/articles/s41467-024-49647-6) [[code]](https://github.com/jianlin-cheng/Cryo2Struct) ${\color{red}\texttt{[Cryo2Struct]}}$
 
 **Automated model building and protein identification in cryo-EM maps** <br>
@@ -238,8 +238,61 @@ This repository provides a list of the state-of-the-art methods on (i) atomic mo
 
 > ### 2.4. Cryo-EM Map Sharpening Methods<a name="enhance-map"></a>
 
+**CryoTEN: Efficiently Enhancing Cryo-EM Density Maps Using Transformers**<br>
+<sub>Joel Selvaraj, Liguo Wang, Jianlin Cheng</sub>
+<br>
+*bioRXiv, September 2024.* 
+<br>
+[[paper]](https://www.biorxiv.org/content/10.1101/2024.09.06.611715v1.full.pdf) [[code]](https://github.com/jianlin-cheng/cryoten) ${\color{red}\texttt{[CryoTEN]}}$
 
+**Integrating AlphaFold and deep learning for atomistic interpretation of cryo-EM maps** <br>
+<sub>Xin Dai, Longlong Wu, Shinjae Yoo, Qun Liu</sub> <br>
+*Briefings in Bioinformatics, November 2023.* 
+<br>
+[[paper]](https://doi.org/10.1093/bib/bbad405) [[code]](https://github.com/Structurebiology-BNL/CryoFEM) ${\color{red}\texttt{[CryoFEM]}}$
 
+**Enhancing cryo-EM maps with 3D deep generative networks for assisting protein structure modeling**<br>
+<sub>Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, Daisuke Kihara</sub>
+<br>
+*Bioinformatics, August 2023.*
+<br>
+[[paper]](https://doi.org/10.1093/bioinformatics/btad494) [[code]](https://github.com/kiharalab/EM-GAN) ${\color{red}\texttt{[EM-GAN]}}$
+
+**Improvement of cryo-EM maps by simultaneous local and non-local deep learning**<br> 
+<sub>Jiahua He, Tao Li, Sheng-You Huang</sub> <br> 
+*Nature Communications, June 2023.* 
+<br> 
+[[paper]](https://www.nature.com/articles/s41467-023-39031-1) [[code]](http://huanglab.phys.hust.edu.cn/EMReady/) ${\color{red}\texttt{[EMReady]}}$
+
+**DeepTracer-Denoising: Deep Learning for 3D Electron Density Map Denoising**<br> 
+<sub>Haowen Guan, Dong Si</sub> <br> 
+*IEEE International Conference on Bioinformatics and Biomedicine, December 2022.* 
+<br> 
+[[paper]](https://ieeexplore.ieee.org/document/9994879) [[code]](https://github.com/HaowenGuan/DeepTracer-Denoising) ${\color{red}\texttt{[DeepTracer-Denoising]}}$
+
+**DeepEMhancer: a deep learning solution for cryo-EM volume post-processing**<br> 
+<sub>Ruben Sanchez-Garcia, Josue Gomez-Blanco, Ana Cuervo, Jose Maria Carazo, Carlos Oscar S. Sorzano, Javier Vargas</sub> <br> 
+*Nature Communications Biology, July 2021.* 
+<br> 
+[[paper]](https://www.nature.com/articles/s42003-021-02399-1) [[code]](https://github.com/rsanchezgarc/deepEMhancer) ${\color{red}\texttt{[DeepEMhancer]}}$
+
+**Local computational methods to improve the interpretability and analysis of cryo-EM maps**<br> 
+<sub>Satinder Kaur, Josue Gomez-Blanco, Ahmad A. Z. Khalifa, Swathi Adinarayanan, Ruben Sanchez-Garcia, Daniel Wrapp, Jason S. McLellan, Khanh Huy Bui, Javier Vargas</sub> <br> 
+*Nature Communications, February 2021.* 
+<br> 
+[[paper]](https://www.nature.com/articles/s41467-021-21509-5) [[code]](https://github.com/1aviervargas/LocSpiral-LocBSharpen-LocBFactor-LocOccupancy) ${\color{red}\texttt{[LocSpiral, LocBSharpen, LocBFactor, LocOccupancy]}}$
+
+**Automated map sharpening by maximization of detail and connectivity**<br> 
+<sub>Thomas C. Terwilliger, Oleg V. Sobolev, Pavel V. Afoninec, Paul D. Adamsd</sub> <br> 
+*Acta Crystallographica Section D: Structural Biology, June 2018.* 
+<br> 
+[[paper]](https://journals.iucr.org/d/issues/2018/06/00/ic5102/index.html) [[code]](https://phenix-online.org/documentation/reference/auto_sharpen.html) ${\color{red}\texttt{[phenix.auto-sharpen]}}$
+
+**Model-based local density sharpening of cryo-EM maps**<br> 
+<sub>Arjen J Jakobi, Matthias Wilmanns, Carsten Sachse</sub> <br> 
+*Structural Biology and Molecular Biophysics, November 2017.* 
+<br> 
+[[paper]](https://elifesciences.org/articles/27131) [[code]](https://github.com/wrigjz/ppihotspotid/) ${\color{red}\texttt{[LocScale]}}$
 
 <br>
 
@@ -317,8 +370,6 @@ This repository provides a list of the state-of-the-art methods on (i) atomic mo
 <br>
 *Nature, January 2020.* <br>
 [[paper]](https://www.nature.com/articles/s41586-019-1923-7) ${\color{red}\texttt{[AlphaFold 1]}}$
-
-<br>
 
 
 
